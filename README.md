@@ -1,0 +1,1 @@
+npm i @react-icons/all-files react-icons
